@@ -4,7 +4,7 @@ through this project i learnt how to build images, how to run them in a containe
 
 # The Code🖥️
 
-![alt text](https://ibb.co/MMTJynj)
+![This is an image](https://ibb.co/MMTJynj)
 
 # The application💫
 
